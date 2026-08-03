@@ -175,6 +175,30 @@
 .whywe_bottom-a_text {
     max-width: 770px;
 }
+.result-photo-imgslideA {
+    flex-direction: column;
+    gap: 16px;
+}
+
+.result-photo-imgslideB {
+    flex-direction: column;
+    gap: 16px;
+}
+
+.result-photo-imgslideC {
+    flex-direction: column;
+    gap: 16px;
+}
+
+.result-photo-imgslideD {
+    flex-direction: column;
+    gap: 16px;
+}
+
+
+.result-photo-img .container {
+    gap: 60px;
+}
 
 }
 
@@ -718,8 +742,25 @@ width: 200px;
     text-align: center;
 }
 
+.result-photo-imgslideA img {
+    width: 294px;
+    height: 196px;
+}
 
+.result-photo-imgslideB img {
+    width: 294px;
+    height: 196px;
+}
 
+.result-photo-imgslideC img {
+    width: 294px;
+    height: 196px;
+}
+
+.result-photo-imgslideD img {
+    width: 294px;
+    height: 196px;
+}
 
 }
 
